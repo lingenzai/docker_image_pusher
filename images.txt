@@ -7,7 +7,6 @@ xhofe/alist:latest
 mongo:latest
 redis:latest
 traefik
-nexus:latest
+sonatype/nexus3:latest
 mysql:latest
-solr
-rocketmq
+foxiswho/rocketmq
