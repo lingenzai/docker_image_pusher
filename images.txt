@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mongo:latest
 redis:latest
+traefik
+nexus
+mysql
+solr
+rocketmq
