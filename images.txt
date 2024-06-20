@@ -1,2 +1,3 @@
-apache/rocketmq
-elasticsearch
+elasticsearch:latest
+logstash:latest
+kibana:latest
