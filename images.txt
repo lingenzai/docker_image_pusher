@@ -1,3 +1,1 @@
-logstash:latest
-kibana:latest
-elasticsearch:latest
+springcloud/eureka:latest
