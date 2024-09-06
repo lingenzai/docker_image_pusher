@@ -1,2 +1,2 @@
 springcloud/eureka:latest
-apache/kafka
+apache/kafka:latest
