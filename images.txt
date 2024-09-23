@@ -1,1 +1,1 @@
-apache/kafka:latest
+openjdk:8
