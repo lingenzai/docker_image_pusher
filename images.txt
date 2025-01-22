@@ -1,1 +1,1 @@
-openjdk:8
+manticoresearch/manticore:latest
